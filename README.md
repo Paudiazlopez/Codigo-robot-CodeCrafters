@@ -15,4 +15,4 @@ En este repositorio encontrareis todos los código que hemos implementado a nues
 
 ### 7.º código (test del motor)
 
-cada carpeta contiene un archivo .ino listo para usar.
+Cada carpeta contiene un archivo .ino listo para usar.
