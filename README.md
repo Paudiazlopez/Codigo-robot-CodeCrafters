@@ -13,6 +13,4 @@ En este repositorio encontrareis todos los código que hemos implementado a nues
 
 ### 6to código (sigue objetos)
 
-### 7.º código (test del motor)
-
 Cada carpeta contiene un archivo .ino listo para usar.
