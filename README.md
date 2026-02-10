@@ -1,5 +1,5 @@
 # Codigo-robot-CodeCrafters
-En este repositorio encontrareis todo el código que hemos implementado a nuestro robot.
+En este repositorio encontrareis todos los código que hemos implementado a nuestro robot:
 
 ### 1r código (movimiento inicial del robot)
 
@@ -14,3 +14,5 @@ En este repositorio encontrareis todo el código que hemos implementado a nuestr
 ### 6to código (sigue objetos)
 
 ### 7.º código (test del motor)
+
+cada carpeta contiene un archivo .ino listo para usar.
